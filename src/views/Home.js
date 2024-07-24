@@ -26,7 +26,7 @@ function Home(){
             artist: 'Eminem',
             image: 'https://mosaic.scdn.co/300/ab67616d00001e02414c9f2508efab33884f60a0ab67616d00001e026ca5c90113b30c3c43ffb8f4ab67616d00001e02dbb3dd82da45b7d7f31b1b42ab67616d00001e02eab40fc794b88b9d1e012578',
             type: 'podcast',
-            src: 'https://freesound.org/data/previews/623/623616_11861866-lq.mp3'
+            src: 'https://tommy-typos.github.io/public-bucket/eminem_space_bound.mp3'
         },
         {
             id: 4,
